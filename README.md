@@ -1,8 +1,10 @@
 ## Not so good astronout data analysis code
 
-Helper software project with code examples for the [FAIR research software course](https://github.com/carpentries-incubator/fair-research-software). 
+This repository contains a helper software project with some code to be used 
+for the [FAIR research software course](https://github.com/carpentries-incubator/fair-research-software). 
 
-It contains some "not so good" code that is meant to be improved over the course to show examples of better software practices. 
+This repository is an example of "not so good" software that is meant to be improved over the course to show examples of better 
+and more FAIR software practices. 
 An example of better and more FAIR code that participants should strive to achieve when writing their reseach software 
 can be found at [astronout-data-analyses-fair repository](https://github.com/carpentries-incubator/astronout-data-analyses-fair).
 
