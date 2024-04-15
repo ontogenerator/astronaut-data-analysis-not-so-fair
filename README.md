@@ -14,3 +14,15 @@ https://github.com/carpentries-incubator/astronout-data-analyses-bad/issues/2.
 An example of better and more FAIR code that participants should strive to achieve when writing their reseach software 
 can be found at [astronout-data-analyses-fair repository](https://github.com/carpentries-incubator/astronout-data-analyses-fair), 
 to be used on conjuction with this repository during the course.
+
+### Acknowledgements
+
+#### HIFIS 
+
+#### Data
+We used public data on astronauts and spacewalks available from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
+
+#### Software Sustainability Institute and UKRN
+
+This work has been supported by the [UK's Software Sustainability Institute][ssi] via the [EPSRC, BBSRC, ESRC, NERC, AHRC, STFC and MRC grant EP/S021779/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S021779/1)
+and [UKRN](https://www.ukrn.org/).
