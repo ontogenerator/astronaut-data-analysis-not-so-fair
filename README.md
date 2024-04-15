@@ -1,4 +1,4 @@
-## Not so good astronout data analyses code
+## Not so good astronout data analysis code
 
 Helper software project with code examples for the [FAIR research software course](https://github.com/carpentries-incubator/fair-research-software). 
 
