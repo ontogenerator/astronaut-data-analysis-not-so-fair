@@ -17,8 +17,6 @@ to be used on conjuction with this repository during the course.
 
 ### Acknowledgements
 
-#### HIFIS 
-
 #### Data
 We used public data on astronauts and spacewalks available from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
 
