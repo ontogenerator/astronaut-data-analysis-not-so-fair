@@ -8,7 +8,7 @@ and more FAIR software practices.
 
 ### What the code does
 The code uses the [NASA data on human space walks (Extravehicular activities - EVAs)](https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn/data_preview), 
-exported/downloaded in JSON format, and does some analysis over this data. 
+exported/downloaded in JSON format, and does some analysis over this data, plots some graphs and saves the data in CSV format. 
 
 ### Things to improve
 There is a number of things that are wrong or not so good with this code and that can be improved. We maintain that list at issue
