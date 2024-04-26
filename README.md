@@ -7,7 +7,7 @@ This repository is an example of "not so good" software that is meant to be impr
 and more FAIR software practices. 
 
 ### Things to improve
-There is a number of things that are wrong or not so good with this code and that can be improved. We maintain that list at:
+There is a number of things that are wrong or not so good with this code and that can be improved. We maintain that list at issue
 https://github.com/carpentries-incubator/astronout-data-analyses-bad/issues/2.
 
 ### Better code
