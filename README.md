@@ -13,7 +13,7 @@ https://github.com/carpentries-incubator/astronout-data-analyses-bad/issues/2.
 ### Better code
 An example of better and more FAIR code that participants should strive to achieve when writing their reseach software 
 can be found at the [astronout-data-analysis-fair repository](https://github.com/carpentries-incubator/astronout-data-analysis-fair), 
-to be used on conjuction with this repository during the course.
+to be used in conjuction with this repository during the course.
 
 ### Acknowledgements
 
