@@ -6,6 +6,10 @@ for the [FAIR research software course](https://github.com/carpentries-incubator
 This repository is an example of "not so good" software that is meant to be improved over the course to show examples of better 
 and more FAIR software practices. 
 
+### What the code does
+The code uses the [NASA data on human space walks (Extravehicular activities - EVAs)](https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn/data_preview), 
+exported/downloaded in JSON format, and does some analysis over this data. 
+
 ### Things to improve
 There is a number of things that are wrong or not so good with this code and that can be improved. We maintain that list at issue
 https://github.com/carpentries-incubator/astronout-data-analyses-bad/issues/2.
