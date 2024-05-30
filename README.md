@@ -1,4 +1,4 @@
-## Not so good astronout data analysis code
+## Not so good astronaut data analysis code
 
 This repository contains a helper software project with some code to be used 
 for the [FAIR research software course](https://github.com/carpentries-incubator/fair-research-software). 
