@@ -8,16 +8,14 @@ and more FAIR software practices.
 
 Various branches of this repository represent the state of the code as it should be at the start of each of the course episodes:
 
-- branch [01-introduction](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/01-introduction) matches the code at start of episode [01](https://carpentries-incubator.github.io/fair-research-software/01-introduction.html)
-- branch [02-tools](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/02-tools) matches the start of episode ["1. Course introduction"](https://carpentries-incubator.github.io/fair-research-software/02-fair-research-software.html)
-- branch [02] matches the start of episode ["2. FAIR research software"](https://carpentries-incubator.github.io/fair-research-software/01-introduction.html)
-- branch [03] matches the start of episode ["3. Tools and practices for FAIR RS development"](https://carpentries-incubator.github.io/fair-research-software/03-tools.html)
-- branch [04] matches the start of episode ["4. Version control"](https://carpentries-incubator.github.io/fair-research-software/04-version-control.html)
-- branch [05] matches the start of episode ["5. Code readability"](https://carpentries-incubator.github.io/fair-research-software/05-code-readability.html)
-- branch [06] matches the start of episode ["6. Code testing"](https://carpentries-incubator.github.io/fair-research-software/06-code-testing.html)
-- branch [07] matches the start of episode ["7. Documenting code"](https://carpentries-incubator.github.io/fair-research-software/07-documenting-code.html)
-- branch [08] matches the start of episode ["8. Open project collaboration & management"](https://carpentries-incubator.github.io/08-open-collaboration.html)
-- branch [09] matches the start of episode ["9. Ethical considerations for research software"](https://carpentries-incubator.github.io/fair-research-software/09-code-ethics.html)
+- branch [01-introduction](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/01-introduction) matches the code at start of episode ["1. Course introduction"](https://carpentries-incubator.github.io/fair-research-software/01-introduction.html)
+- branch [02-fair-rs](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/02-fair-rs) matches the start of episode ["2. FAIR research software"](https://carpentries-incubator.github.io/fair-research-software/02-fair-research-software.html)
+- branch [03-tools](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/03-tools) matches the start of episode ["3. Tools and practices for FAIR RS development"](https://carpentries-incubator.github.io/fair-research-software/03-tools.html)
+- branch [04-version-control](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/04-version-control) matches the start of episode ["4. Version control"](https://carpentries-incubator.github.io/fair-research-software/04-version-control.html)
+- branch [05-code-readability](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/05-code-readability) matches the start of episode ["5. Code readability"](https://carpentries-incubator.github.io/fair-research-software/05-code-readability.html)
+- branch [06-code-testing](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/06-code-testing) matches the start of episode ["6. Code testing"](https://carpentries-incubator.github.io/fair-research-software/06-code-testing.html)
+- branch [07-documenting-code](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/07-documenting-code) matches the start of episode ["7. Documenting code"](https://carpentries-incubator.github.io/fair-research-software/07-documenting-code.html)
+- branch [08-open-collaboration](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/08-open-collaboration) matches the start of episode ["8. Open project collaboration & management"](https://carpentries-incubator.github.io/08-open-collaboration.html)
 
 
 ### What the code does
