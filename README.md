@@ -9,7 +9,7 @@ and more FAIR software practices.
 Various branches of this repository represent the state of the code as it should be at the start of each of the course episodes:
 
 - branch [01-introduction](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/01-introduction) matches the code at start of episode [01](https://carpentries-incubator.github.io/fair-research-software/01-introduction.html)
-- branch [01] matches the start of episode ["1. Course introduction"](https://carpentries-incubator.github.io/fair-research-software/02-fair-research-software.html)
+- branch [02-tools](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/02-tools) matches the start of episode ["1. Course introduction"](https://carpentries-incubator.github.io/fair-research-software/02-fair-research-software.html)
 - branch [02] matches the start of episode ["2. FAIR research software"](https://carpentries-incubator.github.io/fair-research-software/01-introduction.html)
 - branch [03] matches the start of episode ["3. Tools and practices for FAIR RS development"](https://carpentries-incubator.github.io/fair-research-software/03-tools.html)
 - branch [04] matches the start of episode ["4. Version control"](https://carpentries-incubator.github.io/fair-research-software/04-version-control.html)
