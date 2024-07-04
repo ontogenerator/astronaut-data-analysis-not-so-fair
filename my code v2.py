@@ -1,4 +1,4 @@
-# https://data.nasa.gov/resource/eva.json
+# https://data.nasa.gov/resource/eva.json (with modifications)
 data_f = open('/home/sarah/Projects/ssi-ukrn-fair-course/data.json', 'r')
 data_t = open('/home/sarah/Projects/ssi-ukrn-fair-course/data.csv','w')
 g_file = 'myplot.png'
