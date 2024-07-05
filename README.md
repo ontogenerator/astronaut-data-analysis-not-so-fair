@@ -35,8 +35,29 @@ to be used in conjuction with this repository during the course - this is the co
 
 ### Acknowledgements
 
+### Acknowledgements
+
 #### Data
-We used public data on astronauts and spacewalks available from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
+
+The data used on in this project was obtained from NASA as follows.
+
+Data source: https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn/about_data.
+
+Either export data from the above page using the `Export` button or download in JSON format from command line as: 
+
+`curl https://data.nasa.gov/resource/eva.json --output eva-data.json`
+
+**Note: the original data has been modified for the purposes of this tutorial by inserting a semicolon separator after each name in the `crew` field.**
+
+#### HIFIS 
+The idea for this repository has been borrowed from the ["Astronaut analysis" workshop material](https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/astronaut-analysis) 
+by [Helmholtz Federated IT Services (HIFIS)](https://gitlab.com/hifis).
+
+#### Software Sustainability Institute and UKRN
+
+This work has been supported by the [UK's Software Sustainability Institute](https://software.ac.uk) via the [EPSRC, BBSRC, ESRC, NERC, AHRC, STFC and MRC grant EP/S021779/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S021779/1)
+and [UK Reproducibility Network (UKRN)](https://www.ukrn.org/).
+
 
 #### Software Sustainability Institute and UKRN
 
