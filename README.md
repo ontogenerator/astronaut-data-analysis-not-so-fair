@@ -48,7 +48,7 @@ Either export data from the above page using the `Export` button or download in 
 **Note: the original data has been modified for the purposes of this tutorial by inserting a semicolon separator after each name in the `crew` field.**
 
 #### HIFIS 
-The idea for this repository has been borrowed from the ["Astronaut analysis" workshop material](https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/astronaut-analysis) 
+The idea for this software has been borrowed from the ["Astronaut analysis" workshop material](https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/astronaut-analysis) 
 by [Helmholtz Federated IT Services (HIFIS)](https://gitlab.com/hifis).
 
 #### Software Sustainability Institute and UKRN
