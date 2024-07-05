@@ -35,8 +35,6 @@ to be used in conjuction with this repository during the course - this is the co
 
 ### Acknowledgements
 
-### Acknowledgements
-
 #### Data
 
 The data used on in this project was obtained from NASA as follows.
