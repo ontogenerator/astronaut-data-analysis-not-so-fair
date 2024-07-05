@@ -17,7 +17,7 @@ Various branches of this repository represent the state of the code as it should
 - [branch 07-documenting-code](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/07-documenting-code) matches the code at the start of episode ["7. Documenting code"](https://carpentries-incubator.github.io/fair-research-software/07-documenting-code.html)
 - [branch 08-open-collaboration](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/08-open-collaboration) matches the code at the start of episode ["8. Open project collaboration & management"](https://carpentries-incubator.github.io/fair-research-software/instructor/08-open-collaboration.html)
 - [branch 09-code-ethics](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-good/tree/09-code-ethics) matches the code at the start of episode ["9. Ethical considerations for research software"](https://carpentries-incubator.github.io/fair-research-software/instructor/09-code-ethics.html)
-- Finally, repository [astronaut-data-analysis-fair repository](https://github.com/carpentries-incubator/astronaut-data-analysis-fair) contains the code that participants should have at the end of the course
+- Finally, repository [astronaut-data-analysis-fair repository](https://github.com/carpentries-incubator/astronaut-data-analysis-fair) contains the code that participants should have at the end of the course (an example of a good software project structure and code)
 
 
 
