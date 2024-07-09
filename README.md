@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/776011771.svg)](https://zenodo.org/doi/10.5281/zenodo.12699084)
+
 ## Not so FAIR astronaut data analysis code
 
 This repository contains a helper software project with some code to be used 
